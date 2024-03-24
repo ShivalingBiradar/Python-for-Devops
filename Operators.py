@@ -1,8 +1,8 @@
-# Arithmatic Operartors
+## Arithmatic Operartors
 x = 2
 y = 5
 
-# Addition
+## Addition
 total = x + y
 print(total)
 
